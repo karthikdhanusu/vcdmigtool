@@ -1,4 +1,4 @@
-from migtoolPCC import *
+from migtool import *
 import subprocess,os
 import multiprocessing
 import getpass
